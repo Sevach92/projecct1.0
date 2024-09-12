@@ -9,9 +9,5 @@ print ((2*2+2) == (2*(2+2)))
 # 4th program
 print (float('123.456'))
 print (10*float('123.456'))
-print (int(10*float('123.456')))
-print (int(10*float('123.456'))-1194)
-print (int((10*float('123.456'))-1194)//10)
-# или более простой способ извлечения цифры 4
-name = '123.456'
-print (name[4])
+print (int(1234.56))
+print (1234%10)
