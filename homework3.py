@@ -1,7 +1,7 @@
 name = 'Всеволод'
 print ('Имя:',name)
 age = 31
-print ('Вораст:',age)
+print ('Возраст:',age)
 new_age = 4
 print ('Новый возраст:',age+new_age)
 is_student = True
